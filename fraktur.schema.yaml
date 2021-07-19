@@ -8,7 +8,7 @@ schema:
   author:
     - 沈澄心 <dringsim@qq.com>
   description: |
-    德文尖角體輸入方案
+    德文尖角體鍵盤
     
 switches:
   - name: full_shape
